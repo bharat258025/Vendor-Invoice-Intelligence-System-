@@ -161,7 +161,7 @@ inventory-invoice-analytics/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bharat258025/inventory-invoice-analytics.git
+git clone https://github.com/bharat258025/Auto-Invoice-Model
 ```
 2. Train and Save Best Fit Models:
 ```bash
